@@ -1,0 +1,45 @@
+*{margin: 0; padding: 0;}
+body {font-family: 'Roboto', Arial, sans-serif;}
+.main_menu {
+  list-style-type: none;
+  border: 2px solid #ff2c2c; 
+  width: 400px;
+  padding: 10 px; 
+  margin: 10 px;
+}
+
+.main_menu li {
+  line-heigth: 35px;
+  border-bottom: 2px solid #ff2c2c;
+}
+{
+  .main_menu li:nth-last-of-type (01) 
+}
+
+
+
+{
+  font-family: "Roboto", sans-serif;
+}
+
+#titre_1 {
+  color: black;
+}
+
+.titre_2 {
+  color: red;
+}
+
+#logo {
+  display: inline;
+  margin-right: 120px;
+}
+
+nav {
+  display: inline;
+}
+
+a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
